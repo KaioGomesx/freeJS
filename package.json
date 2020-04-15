@@ -1,0 +1,9 @@
+{
+  "name": "freeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prettysize": "^2.0.0"
+  }
+}
